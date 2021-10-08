@@ -359,3 +359,11 @@
 *://https--github--com.proxy.huizhou.gov.cn/*
 *://www.manongjc.com/*
 *://www.4k8k.xyz/*
+*://io04.com/*
+*://www.xerer.com/*
+*://www.hi-linux.com/*
+*://www.vlogzx.com/*
+*://hant-kb.kaifa99.com/*
+*://www.eet-china.com/*
+*://www.twle.cn/*
+*://www.zxbblog.com/*
